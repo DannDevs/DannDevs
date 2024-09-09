@@ -14,19 +14,17 @@ Software Enginner from Belo Horizonte, Brazil</h3>
  <a href='' target="_blank"><img alt='CSHARP' src='https://img.shields.io/badge/CSHARP-100000?style=for-the-badge&logo=CSHARP&logoColor=692CB3&labelColor=black&color=black'/></a>
  <a href='' target="_blank"><img alt='MYSQL' src='https://img.shields.io/badge/mysql-100000?style=for-the-badge&logo=MYSQL&logoColor=FFFFFF&labelColor=black&color=black'/></a>
  <a href='' target="_blank"><img alt='node.js' src='https://img.shields.io/badge/NODE.JS-100000?style=for-the-badge&logo=node.js&logoColor=09FF00&labelColor=black&color=black'/></a>
+  <a href='' target="_blank"><img alt='Vite' src='https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E'/></a>
+    <a href='' target="_blank"><img alt='Express' src='https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white'/></a>
+        <a href='' target="_blank"><img alt='Laravel' src='https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white'/></a>
+
+https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
+
 </p>
-
-
-
-
 
  <div> 
 
 
-
-
-
-  
 <a href="https://github.com/DannDevs">
     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=DannDevs&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true">
     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DannDevs&layout=compact&langs_count=7&theme=midnight-purple">
