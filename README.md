@@ -6,7 +6,7 @@ Software Enginner from Belo Horizonte, Brazil</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
-LOTUS
+
 
 <p align="left">
   <a href="#" target="_blank"><img alt="Java" src="https://img.shields.io/badge/Java-100000?style=for-the-badge&logo=openjdk&logoColor=FF0000&labelColor=black&color=black"/></a>
@@ -31,7 +31,9 @@ LOTUS
 
 <a href="https://github.com/DannDevs">
     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=DannDevs&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DannDevs&langs_count=7&theme=midnight-purple"card_width=400>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DannDevs&langs_count=8&layout=compact&theme=midnight-purple&count_private=true&hide_border=true&custom_title=Linguagens%20Mais%20Usadas💜">
+
+
   </a>
  
 </div>
