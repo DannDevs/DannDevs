@@ -31,7 +31,7 @@ LOTUS
 
 <a href="https://github.com/DannDevs">
     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=DannDevs&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DannDevs&langs_count=7&theme=midnight-purple">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DannDevs&langs_count=7&theme=midnight-purple"card_width=400>
   </a>
  
 </div>
