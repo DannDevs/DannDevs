@@ -6,6 +6,7 @@ Software Enginner from Belo Horizonte, Brazil</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
+LOTUS
 
 <p align="left">
   <a href="#" target="_blank"><img alt="Java" src="https://img.shields.io/badge/Java-100000?style=for-the-badge&logo=openjdk&logoColor=FF0000&labelColor=black&color=black"/></a>
