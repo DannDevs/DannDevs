@@ -9,24 +9,18 @@ Software Enginner from Belo Horizonte, Brazil</h3>
 
 
 <p align="left">
-  
-  <a href="#" target="_blank"><img alt="Java" src="https://img.shields.io/badge/Java-100000?style=for-the-badge&logo=openjdk&logoColor=FF0000&labelColor=black&color=black"/></a>
+  <h3 align="left">Principais Stacks</h3>
   <a href="#" target="_blank"><img alt="React" src="https://img.shields.io/badge/React-100000?style=for-the-badge&logo=react&logoColor=00D8FF&labelColor=black&color=black"/></a>
+  <a href="#" target="_blank"><img alt="Django" src="https://img.shields.io/badge/Django-100000?style=for-the-badge&logo=django&logoColor=0C4B33&labelColor=black&color=black"/></a>
+  <a href="#" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-100000?style=for-the-badge&logo=python&logoColor=FFD43B&labelColor=black&color=black"/></a>
+  <a href="#" target="_blank"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-100000?style=for-the-badge&logo=postgresql&logoColor=336791&labelColor=black&color=black"/></a>
+  <h3 align="left">Outras Stacks</h3>
+  <a href="#" target="_blank"><img alt="Java" src="https://img.shields.io/badge/Java-100000?style=for-the-badge&logo=openjdk&logoColor=FF0000&labelColor=black&color=black"/></a> 
   <a href="#" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-100000?style=for-the-badge&logo=javascript&logoColor=FFD100&labelColor=black&color=black"/></a>
   <a href="#" target="_blank"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-100000?style=for-the-badge&logo=laravel&logoColor=FF2D20&labelColor=black&color=black"/></a>
-  <a href="#" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-100000?style=for-the-badge&logo=python&logoColor=FFD43B&labelColor=black&color=black"/></a>
   <a href="#" target="_blank"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-100000?style=for-the-badge&logo=mysql&logoColor=00ADEF&labelColor=black&color=black"/></a>
-  <a href="#" target="_blank"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-100000?style=for-the-badge&logo=postgresql&logoColor=336791&labelColor=black&color=black"/></a>
   <a href="#" target="_blank"><img alt="Oracle" src="https://img.shields.io/badge/Oracle-100000?style=for-the-badge&logo=oracle&logoColor=F80000&labelColor=black&color=black"/></a>
-  <a href="#" target="_blank">
-  <img alt="Django" src="https://img.shields.io/badge/Django-100000?style=for-the-badge&logo=django&logoColor=0C4B33&labelColor=black&color=black"/>
-</a>
-
 </p>
-
-
-</p>
-
  <div> 
 
 
