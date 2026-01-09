@@ -25,10 +25,8 @@ Software Enginner from Belo Horizonte, Brazil</h3>
 
 
 <a href="https://github.com/DannDevs">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=DannDevs&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DannDevs&langs_count=8&layout=compact&theme=midnight-purple&count_private=true&hide_border=true&custom_title=Linguagens%20Mais%20Usadas💜">
-
-
+    <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DannDevs&theme=midnight_purple">
+  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DannDevs&theme=midnight_purple">
   </a>
  
 </div>
